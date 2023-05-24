@@ -1,7 +1,8 @@
 # Projekt NLP ZUM
+<a href="https://colab.research.google.com/drive/1Vs4Diav8Nqztfm7moZ6L8wPpStyI1UrR?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 Autor: Mateusz Bednarek
 
-##Spis tresci
+## Spis tresci
 - [Start](#start)
 - [Etap 1: Zbieranie Danych](#etap-1-zbieranie-danych)
 - [Etap 2: Classic ML](#etap-2-classic-ml)
@@ -18,3 +19,4 @@ TODO
 TODO
 ## Etap 4: Language Model
 TODO
+https://colab.research.google.com/drive/1Vs4Diav8Nqztfm7moZ6L8wPpStyI1UrR?usp=sharing
