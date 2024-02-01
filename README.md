@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://github.com/s18579/ZUM_NLP/blob/main/res/logo.png?raw=true" width="300" alt="Project Logo">
   <h1>SentimentTrack</h1>
-
-  [![projectReq](https://img.shields.io/badge/README-in_Polish-red)](https://github.com/s18579/ZUM_NLP/blob/main/README.pl-PL.md)
+  
+ ![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat)
   <a href="https://colab.research.google.com/drive/1Vs4Diav8Nqztfm7moZ6L8wPpStyI1UrR?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  [![projectReq](https://img.shields.io/badge/README-previous_version-red)](https://github.com/s18579/ZUM_NLP/blob/main/README.old.md)
   <p>An NLP model for analyzing tweet sentiments towards King Charles III, utilizing ML and neural networks in a Colab-based Jupyter notebook.</p>
 </div>
 
